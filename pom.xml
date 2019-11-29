@@ -5,7 +5,7 @@
     <groupId>io.github.lvbo</groupId>
 	<artifactId>learn-spring-boot-validator</artifactId>
     <version>1.0.0</version>
-	<name>Learn Spring Boot swagger</name>
+	<name>Learn Spring Boot Validator</name>
 	<description>Learn Spring Boot Validator</description>
 
 	<parent>
